@@ -6,4 +6,4 @@ precoPorcentagem = 120*porcentagem;
 
 precoFinal = 120 - precoPorcentagem;
 
-console.log(precoFinal);
+console.log("Preço final: " + precoFinal);

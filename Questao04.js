@@ -5,4 +5,4 @@ valorhoraExtra = horaExtra * 10;
 
 salarioTotal = salarioBase + valorhoraExtra;
 
-console.log(salarioTotal);
+console.log("Salario total juntando a base com as horas extras: " + salarioTotal);

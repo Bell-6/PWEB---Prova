@@ -1,8 +1,8 @@
 let tempC = 30;
 
 convertF = (9/5 * tempC) + 32;
-console.log(convertF);
+console.log("Celsius para Fahrenheit: " + convertF);
 
 convertK = tempC + 273.15;
-console.log(convertK);
+console.log("Celsius para Kelvin: " + convertK);
 
